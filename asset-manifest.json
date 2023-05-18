@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.baab6552.css",
-    "main.js": "/react-gh-pages/static/js/main.5ffb37ea.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.baab6552.css.map": "/react-gh-pages/static/css/main.baab6552.css.map",
-    "main.5ffb37ea.js.map": "/react-gh-pages/static/js/main.5ffb37ea.js.map"
+    "main.css": "/tetris/static/css/main.baab6552.css",
+    "main.js": "/tetris/static/js/main.5ffb37ea.js",
+    "index.html": "/tetris/index.html",
+    "main.baab6552.css.map": "/tetris/static/css/main.baab6552.css.map",
+    "main.5ffb37ea.js.map": "/tetris/static/js/main.5ffb37ea.js.map"
   },
   "entrypoints": [
     "static/css/main.baab6552.css",
