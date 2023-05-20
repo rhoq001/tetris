@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tetris/static/css/main.6873525a.css",
-    "main.js": "/tetris/static/js/main.ecf6ede4.js",
+    "main.css": "/tetris/static/css/main.329e78b7.css",
+    "main.js": "/tetris/static/js/main.a4e1e1d4.js",
     "static/media/oriental-tiles.png": "/tetris/static/media/oriental-tiles.eb925fbd4b61c241aacd.png",
     "index.html": "/tetris/index.html",
-    "main.6873525a.css.map": "/tetris/static/css/main.6873525a.css.map",
-    "main.ecf6ede4.js.map": "/tetris/static/js/main.ecf6ede4.js.map"
+    "main.329e78b7.css.map": "/tetris/static/css/main.329e78b7.css.map",
+    "main.a4e1e1d4.js.map": "/tetris/static/js/main.a4e1e1d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.6873525a.css",
-    "static/js/main.ecf6ede4.js"
+    "static/css/main.329e78b7.css",
+    "static/js/main.a4e1e1d4.js"
   ]
 }
