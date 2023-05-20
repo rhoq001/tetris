@@ -1,0 +1,88 @@
+{
+    "shapes": [
+        {
+            "id": "L-right",
+            "color": "bg-info",
+            "rotatePivotIndex": 0,
+            "squares": 
+            [
+                {"row_pos": 0, "col_pos": 0},
+                {"row_pos": 0, "col_pos": -1},
+                {"row_pos": 0, "col_pos": 1},
+                {"row_pos": 1, "col_pos": 1}
+            ]
+        },
+        {
+            "id": "L-left",
+            "color": "bg-warning",
+            "rotatePivotIndex": 0,
+            "squares": 
+            [
+                {"row_pos": 0, "col_pos": 0},
+                {"row_pos": 0, "col_pos": -1},
+                {"row_pos": 0, "col_pos": 1},
+                {"row_pos": 1, "col_pos": -1}
+            ]
+        },
+        {
+            "id": "T-shape",
+            "color": "bg-violet",
+            "rotatePivotIndex": 0,
+            "squares": 
+            [
+                {"row_pos": 0, "col_pos": 0},
+                {"row_pos": 0, "col_pos": -1},
+                {"row_pos": 0, "col_pos": 1},
+                {"row_pos": 1, "col_pos": 0}
+            ]
+        },
+        {
+            "id": "Z-right",
+            "color": "bg-danger",
+            "rotatePivotIndex": 2,
+            "squares": 
+            [
+                {"row_pos": 0, "col_pos": 0},
+                {"row_pos": 0, "col_pos": 1},
+                {"row_pos": 1, "col_pos": 0},
+                {"row_pos": 1, "col_pos": -1}
+            ]
+        },
+        {
+            "id": "Z-left",
+            "color": "bg-success",
+            "rotatePivotIndex": 2,
+            "squares": 
+            [
+                {"row_pos": 0, "col_pos": 0},
+                {"row_pos": 0, "col_pos": -1},
+                {"row_pos": 1, "col_pos": 0},
+                {"row_pos": 1, "col_pos": 1}
+            ]
+        },
+        {
+            "id": "Block",
+            "color": "bg-orange",
+            "rotatePivotIndex": -1,
+            "squares": 
+            [
+                {"row_pos": 0, "col_pos": 0},
+                {"row_pos": 0, "col_pos": 1},
+                {"row_pos": 1, "col_pos": 0},
+                {"row_pos": 1, "col_pos": 1}
+            ]
+        },
+        {
+            "id": "Line",
+            "color": "bg-primary",
+            "rotatePivotIndex": 0,
+            "squares": 
+            [
+                {"row_pos": 0, "col_pos": 0},
+                {"row_pos": 0, "col_pos": -1},
+                {"row_pos": 0, "col_pos": 1},
+                {"row_pos": 0, "col_pos": 2}
+            ]
+        }
+    ]
+}
